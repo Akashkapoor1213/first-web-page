@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+nav{
+    background-color: grey;
+    padding: 30px; 
+}
+a{
+    padding: 2%;
+    text-decoration: none;
+    list-style: none;
+    font-weight: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    color: whitesmoke;
+    text-shadow: 0cqmax;
+}
+nav :hover{
+    background-color: black;
+}
+div{
+    float: right;
+    color: white;
+}
+img{
+    display: block;
+    margin: auto;
+    
+}
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-style:initial;
+    text-align: center;
+}
+p:hover{
+    color: red;
+}
+iframe{
+    display: block;
+    margin: auto;
+}
+input{
+    border-radius: 50px;
+}
+
+marquee{
+    background-color: gold;
+    padding: 20px;
+    font-family: ;
+    font-size: large;
+    margin: 0px;
+    font-weight:300;
+    font-size: xx-large;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/R.e5c841cbf2a47027c2946a8f34627c06?rik=G9UtwPnp9IXZUA&riu=http%3a%2f%2fthewowstyle.com%2fwp-content%2fuploads%2f2015%2f03%2fabstract-wallpaper-designs-1024x819.jpg&ehk=QOOnlQ0Nm8zIaUR0Ua75pHql5ai%2bBeHEX%2fcaTt5%2fAOc%3d&risl=&pid=ImgRaw&r=0);
+    
+}
+span{
+    float: right;
+}
